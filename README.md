@@ -16,8 +16,9 @@ http://www.yes24.com/Product/Goods/96674934
 13장 - 17장 JavaScript
 </li>
 
-## 진행
-15일 코스 진행
+## 스터디 진행
+15일 코스 진행<br>
+![Course](./Examples/StudyCourse.PNG)
 
 <br>
 수, 일 오후 9시 - 11시 스터디 정규 세션 진행
